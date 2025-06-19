@@ -8,7 +8,7 @@ FlashX is an autonomous arbitrage engine that leverages flash loans to execute p
 
 ## Project Vision
 
-To create a permissionless, composable bot that anyone can deploy or integrate into their DeFi strategies, enabling advanced financial automation using flash loans.
+To create a permissionless, composable bot that anyone can deploy or integrate  into their DeFi strategies, enabling advanced financial automation using flash loans.
 
 ## Key Features
 
