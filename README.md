@@ -21,7 +21,7 @@ To create a permissionless, composable bot that anyone can deploy or integrate  
 
 - Integrate with on-chain arbitrage opportunity detectors
 - Gas fee optimization and bundling
-- DAO-controlled vault for pooled arbitrage profits
+- DAO-controlled vault for pooled arbitrage profit
 - Real-time dashboard for trade tracking and statistics
 
 ## Contract Details
