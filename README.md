@@ -1,6 +1,6 @@
 # Project Title: FlashX: Autonomous Arbitrage Bot with Flash Loans
 
-## Project Done By: Avni Pal
+## Project Done By: Avni Pal.
 
 ## Project Description
 
