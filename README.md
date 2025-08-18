@@ -4,7 +4,7 @@
 
 ## Project Description
 
-FlashX is an autonomous arbitrage engine that leverages flash loans to execute profitable token swaps across multiple decentralized exchanges (DEXs). It identifies price discrepancies between trading pairs and captures risk-free profits, all within a single transaction
+FlashX is an autonomous arbitrage engine that leverages flash loans to execute profitable token swaps across multiple decentralized exchanges (DEXs). It identifies price discrepancies between trading pairs and captures risk-free profits, all within a single transaction.
 
 ## Project Vision
 
