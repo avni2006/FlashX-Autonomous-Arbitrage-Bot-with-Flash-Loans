@@ -15,7 +15,7 @@ To create a permissionless, composable bot that anyone can deploy or integrate  
 - Supports arbitrage across any two DEXs with compatible interfaces
 - Uses flash loans for capital efficiency and atomic trade execution
 - Profit enforcement logic to avoid unprofitable trades
-- Withdrawable profit for bot owner
+- Withdrawable profit for bot owner.
 
 ## Future Scope
 
